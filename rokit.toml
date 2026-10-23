@@ -1,0 +1,3 @@
+# Lune runs both tools. `rokit install` here, or add lune to your own project's rokit.toml.
+[tools]
+lune = "lune-org/lune@0.10.5"

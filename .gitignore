@@ -1,0 +1,10 @@
+# Renders
+artifacts/
+.browser-profile/
+
+# Built on first run from the local Roblox install
+uikit/fonts.json
+
+# Studio lock files
+*.rbxl.lock
+*.rbxlx.lock

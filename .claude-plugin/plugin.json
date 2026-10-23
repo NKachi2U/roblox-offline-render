@@ -1,0 +1,11 @@
+{
+  "name": "roblox-offline-render",
+  "description": "Render Roblox UI and maps offline, without Studio, so an AI agent can see what it built.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nathan Ibemere"
+  },
+  "repository": "https://github.com/NKachi2U/roblox-offline-render",
+  "license": "MIT",
+  "keywords": ["roblox", "luau", "lune", "rojo", "ui", "screenshot", "map"]
+}

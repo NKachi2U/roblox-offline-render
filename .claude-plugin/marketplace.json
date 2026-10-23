@@ -1,0 +1,14 @@
+{
+  "name": "nkachi2u",
+  "description": "Roblox development tools",
+  "owner": {
+    "name": "Nathan Ibemere"
+  },
+  "plugins": [
+    {
+      "name": "roblox-offline-render",
+      "source": "./",
+      "description": "Render Roblox UI and maps offline, without Studio, so an AI agent can see what it built."
+    }
+  ]
+}
